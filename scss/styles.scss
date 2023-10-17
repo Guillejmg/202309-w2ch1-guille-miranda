@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.hero{
+  background-image: url("./images/bg-intro-mobile.png");
+}
+.hero__description__paragraph{
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero__header{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem ;
+  font-family: 'Poppins', sans-serif;
+  font-size: 10px;
+  font-weight: 1200;
+}
